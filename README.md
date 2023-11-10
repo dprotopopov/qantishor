@@ -93,7 +93,7 @@
 И таки да - мы не занимаемся экономией кубитов - в данных рассуждениях потребовалось ещё **(m+1)*2^n** дополнительных кубитов, только для того, чтобы задать коэффициенты с нужным значением вероятности у регистра из **n** кубитов (но и сам алгорим Шора не отвечает на вопрос как задать требуемое состояние регистра кубитов).
 
 ## Ссылки
-- https://github.com/dprotopopov/qrnd
+- https://github.com/dprotopopov/qantishor
 - https://learn.microsoft.com/ru-ru/azure/quantum/tutorial-qdk-grovers-search?tabs=tabid-visualstudio
 - https://learn.microsoft.com/ru-ru/azure/quantum/user-guide/host-programs?tabs=tabid-copilot
 - https://learn.microsoft.com/ru-ru/training/modules/qsharp-create-first-quantum-development-kit/2-install-quantum-development-kit-code
