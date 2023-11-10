@@ -1,6 +1,6 @@
 # Изучаем Q#. Не будь зашоренным ...
 
-[КДПВ](https://github.com/dprotopopov/qantishor/blob/main/LqOttPVmV5I.jpg)
+![КДПВ](https://github.com/dprotopopov/qantishor/blob/main/LqOttPVmV5I.jpg)
 
 **Алгориитм Шора** — квантовый алгоритм факторизации (разложения числа на простые множители), позволяющий разложить число **M** за время **O((logM)^3)** используя **O(log M)** логических кубитов.
 
